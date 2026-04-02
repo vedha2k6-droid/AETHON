@@ -1,0 +1,15 @@
+function App() {
+  return (
+    <div>
+      <h1>Workshops</h1>
+
+      <img src="/assets/workshop/workshop2.png" alt="Workshop 2" />
+      <img src="/assets/workshop/workshop3.png " alt="Workshop 3" />
+      <img src="/assets/workshop/workshop4.png" alt="Workshop 4" />
+
+      <img src="/assets/logo.png" alt="Logo" />
+    </div>
+  );
+}
+
+export default App;
